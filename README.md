@@ -1,5 +1,7 @@
+#🔭 MADHAV GUPTA
+
 # 💫 About Me:
-🔭 MADHAV GUPTA<br>👯Pursuing Bsc.Data Science<br>🤝 Working on Sentiment analysis Project<br>🌱 Skils: Group managment , Presenting<br>
+👯Pursuing Bsc.Data Science<br>🤝 Working on Sentiment analysis Project<br>🌱 Skils: Group managment , Presenting<br>
 
 
 ## 🌐 Socials:
