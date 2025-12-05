@@ -1,4 +1,4 @@
-# <p align="center">🔭 MADHAV GUPTA<centre></p>
+# <p align="center">🔭Hi i'm Madhav gupta<centre></p>
 
 # 💫 About Me:
 👯Pursuing Bsc.Data Science<br>🤝 Working on Sentiment analysis Project<br>🌱 Skils: Group managment , Presenting<br>
